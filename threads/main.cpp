@@ -1,8 +1,8 @@
-#include<iostream>
+п»ї#include<iostream>
 #include<thread>
 #include<chrono>
 
-//потоки
+//РїРѕС‚РѕРєРё
 using namespace std::literals::chrono_literals;
 using std::cin;
 using std::endl;
